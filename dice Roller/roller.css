@@ -1,0 +1,31 @@
+#container{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    background-color:#A0937D;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+button{
+    background-color: rgb(9, 9, 9);
+    color: aliceblue;
+    font-weight: bolder;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color:#000000;
+}
+#inp{
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;
+}
+#val{
+    text-align: center;
+    font-weight: bold;
+
+}
+#ig{
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+#count{
+   
+    text-align: center;
+    font-size:10cm;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#sec{
+    text-align: center;
+}
+button{
+    background-color: #04a9f5;
+    color: aliceblue;
+    font-size: 200%;
+    border-radius:30%;
+    cursor: pointer;
+}
