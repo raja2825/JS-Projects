@@ -8,26 +8,69 @@ body{
 }
 button{
     font-size: 50px;
-    background-color: #E3A5C7;
+    background-color:rgb(46, 45, 45);
+    border-width: 3px;
+    margin: 5px;
+    border-radius: 10px;
+    color: #1c03ff;
+    cursor: pointer;
+}
+
+
+#con{
+    background-color:#252526;
+    border-radius: 0px 0px 15px 15px;
+    width: 240px;
+   justify-content: space-between;
+ 
+   margin: auto;
+   
 }
 #sub{
   width: 45px;
+  color:wheat;
+  background-color: #1c03ff;
+  border: 0px;
+
 }
 #mul{
+    color:wheat;
+    background-color: #1c03ff;
+    border: 0px;
     width: 45px;
     text-align: center;
 }
 #di{
     width: 45px;
+    color:wheat;
+    background-color: #1c03ff;
+    border: 0px;
 }
 #dis{
     
-    background-color:#606676;
-    width: 172px;
+    background-color:#252526;
+    width: 240px;
     height: 40px;
     margin: auto;
-    color: #FEF3E2;
+    color: #ffffff;
+
     text-align: left;
     padding-top: 10px;
     font-size: 30px;
+    border-radius: 15px 15px 0px 0px;
+}
+#equal{
+    color:wheat;
+    background-color: #1c03ff;
+    border: 0px;
+}
+#add{
+    color:wheat;
+    background-color: #1c03ff;
+    border: 0px;
+}
+#clr{
+    color:wheat;
+    background-color: #1c03ff;
+    border: 0px;
 }
